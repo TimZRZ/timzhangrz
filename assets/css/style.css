@@ -2474,8 +2474,17 @@ header.sticky #hamburger {
   content: ":";
 }
 
+.skills-experiance-resume .main-profile-img {
+  background: transparent;
+  padding: 30px;
+  padding-bottom: 0px;
+  margin-top: 60px;
+  position: relative;
+  z-index: 1;
+}
+
 .about-section .main-profile-img {
-  background: #fff;
+  background: transparent;
   padding: 30px;
   padding-bottom: 0px;
   margin-top: 60px;

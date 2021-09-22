@@ -3515,4 +3515,22 @@ footer.footer_white a, footer.footer_white p {
   font-size: 20px;
   line-height: 40px;
 }
+
+.entrepreneurship a {
+  font-size: 20px;
+  line-height: 40px;
+}
+.project h2 {
+  line-height: 60px;
+}
+
+.project p {
+  font-size: 20px;
+  line-height: 40px;
+}
+
+.project a {
+  font-size: 20px;
+  line-height: 40px;
+}
 /*# sourceMappingURL=style.css.map */

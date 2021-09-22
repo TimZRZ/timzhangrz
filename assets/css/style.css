@@ -3007,6 +3007,7 @@ header.sticky #hamburger {
 
 .single-portfolio-item {
   margin-top: 30px;
+  margin-bottom: 20px;
 }
 
 .single-portfolio-item img {
@@ -3503,5 +3504,15 @@ footer.footer_white a, footer.footer_white p {
   border-radius: 5px;
   padding: 70px 0px;
   background-color: #fff;
+}
+
+.entrepreneurship {
+  margin-top: 26px;
+  padding: 10px;
+}
+
+.entrepreneurship p {
+  font-size: 20px;
+  line-height: 40px;
 }
 /*# sourceMappingURL=style.css.map */
